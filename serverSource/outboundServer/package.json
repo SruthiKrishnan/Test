@@ -1,0 +1,15 @@
+{
+  "name": "outboundserver",
+  "version": "1.0.0",
+  "description": "Server to handle traffic to Hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
